@@ -6,8 +6,9 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 
 | Product          | Description                                        | Link                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
-| Threat Stream    | This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging t | link|||
+| Threat Stream    | This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging threats | link|||
 | TheHive     | This incident response platform integrates with a variety of threat intelligence feeds to help security teams quickly identify and respond to threats. | link|||
+| MISP | MISP (Malware Information Sharing Platform) is an open source platform for sharing, storing, and collaborating on threat intelligence. It is designed to facilitate the exchange of information about cybersecurity threats, including malware, phishing attacks, and other types of cybercrime.|Link|||
 
 
 ## Vulnerability Management:
