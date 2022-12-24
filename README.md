@@ -6,9 +6,9 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 
 | Product          | Description                                        | Link                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
-| Threat Stream    | This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging t | site:google.com -site:www.google.com |||
+| Threat Stream    | This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging t | link|||
+| TheHive     | This incident response platform integrates with a variety of threat intelligence feeds to help security teams quickly identify and respond to threats. | link|||
 
-TheHive: This incident response platform integrates with a variety of threat intelligence feeds to help security teams quickly identify and respond to threats.
 
 ## Vulnerability Management:
 
