@@ -8,7 +8,7 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 | :-------------- |:---------------------------------------------------| :------------------------------------|
 | Threat Stream    | This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging threats | link|||
 | TheHive     | This incident response platform integrates with a variety of threat intelligence feeds to help security teams quickly identify and respond to threats. | <a href="https://thehive-project.org">TheHive Project</a>|||
-| MISP | MISP (Malware Information Sharing Platform) is an open source platform for sharing, storing, and collaborating on threat intelligence. It is designed to facilitate the exchange of information about cybersecurity threats, including malware, phishing attacks, and other types of cybercrime.|<a href="[https://thehive-project.org](https://www.misp-project.org/)">MISP</a>||||
+| MISP | MISP (Malware Information Sharing Platform) is an open source platform for sharing, storing, and collaborating on threat intelligence. It is designed to facilitate the exchange of information about cybersecurity threats, including malware, phishing attacks, and other types of cybercrime.|<a href="https://www.misp-project.org">MISP</a>||||
 
 
 ## Vulnerability Management:
