@@ -4,7 +4,9 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 
 ## Threat Intelligence:
 
-ThreatStream: This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging threats.
+| Product          | Description                                        | Link                              |
+| :-------------- |:---------------------------------------------------| :------------------------------------|
+| Threat Stream    | This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging t | site:google.com -site:www.google.com |||
 
 TheHive: This incident response platform integrates with a variety of threat intelligence feeds to help security teams quickly identify and respond to threats.
 
@@ -12,7 +14,7 @@ TheHive: This incident response platform integrates with a variety of threat int
 
 OpenVAS: This vulnerability assessment tool allows organizations to scan their systems for known vulnerabilities and apply patches to mitigate risks.
 
-Nessus: This popular vulnerability scanner offers a range of features, including patch management and compliance reporting.
+Nessus Essentials: This popular vulnerability scanner offers a range of features, including patch management and compliance reporting.
 
 ## Forensics:
 
