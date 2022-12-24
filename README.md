@@ -31,4 +31,16 @@ One of the tools offered by Qualys SSL Labs is the SSL Server Test, which allows
 |  Autopsy | This open source digital forensics platform provides a range of tools for analyzing and recovering data from digital devices.||||
 | Sleuth Kit| This suite of tools allows forensic analysts to extract and analyze data from a variety of sources, including disk images and live systems.||||
 
+## Defensive Tooling:
+| Product          | Description                                        | Link                              |
+| :-------------- |:---------------------------------------------------| :------------------------------------|
+| Cobalt Strike |||||
+
+## Offensive Tooling:
+| Product          | Description                                        | Link                              |
+| :-------------- |:---------------------------------------------------| :------------------------------------|
+| Metasploit |Metasploit is an open source toolkit that is great for developing and executing security exploits. I use this software for tasks such as penetration testing, testing the security of systems and networks, and demonstrating the effects of security vulnerabilities.||||
+
+
+
 By leveraging these open source tools, you can improve your threat intelligence capabilities, identify and mitigate vulnerabilities, and effectively conduct forensic investigations when needed.
