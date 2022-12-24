@@ -22,9 +22,9 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 | Burp Suite Community Edition | A popular toolkit for web application security testing. It includes a range of tools for tasks such as testing web applications for vulnerabilities, intercepting and modifying HTTP traffic, and automating testing processes. Best of all it creates reports and the majority of features are free| |||
 
 ## Forensics:
-
-Autopsy: This open source digital forensics platform provides a range of tools for analyzing and recovering data from digital devices.
-
-Sleuth Kit: This suite of tools allows forensic analysts to extract and analyze data from a variety of sources, including disk images and live systems.
+| Product          | Description                                        | Link                              |
+| :-------------- |:---------------------------------------------------| :------------------------------------|
+|  Autopsy | This open source digital forensics platform provides a range of tools for analyzing and recovering data from digital devices.||||
+| Sleuth Kit| This suite of tools allows forensic analysts to extract and analyze data from a variety of sources, including disk images and live systems.||||
 
 By leveraging these open source tools, you can improve your threat intelligence capabilities, identify and mitigate vulnerabilities, and effectively conduct forensic investigations when needed.
