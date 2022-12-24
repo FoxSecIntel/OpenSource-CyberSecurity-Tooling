@@ -12,10 +12,12 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 
 
 ## Vulnerability Management:
-
-OpenVAS: This vulnerability assessment tool allows organizations to scan their systems for known vulnerabilities and apply patches to mitigate risks.
-
-Nessus Essentials: This popular vulnerability scanner offers a range of features, including patch management and compliance reporting.
+| Product          | Description                                        | Link                              |
+| :-------------- |:---------------------------------------------------| :------------------------------------|
+| OpenVAS    | This vulnerability assessment tool allows organizations to scan their systems for known vulnerabilities and apply patches to mitigate risks.
+ | link|||
+| Nmap | | |||
+| Nessus Essentials:| This popular vulnerability scanner offers a range of features, including patch management and compliance reporting.||||
 
 ## Forensics:
 
