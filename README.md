@@ -6,7 +6,7 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 
 | Product          | Description                                        | Link                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
-| Threat Stream    | This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging threats | link|||
+| Threat Stream    | This platform aggregates and analyzes threat data from multiple sources, providing real-time visibility into emerging threats | |||
 | TheHive     | This incident response platform integrates with a variety of threat intelligence feeds to help security teams quickly identify and respond to threats. | <a href="https://thehive-project.org">TheHive Project</a>|||
 | MISP | MISP (Malware Information Sharing Platform) is an open source platform for sharing, storing, and collaborating on threat intelligence. It is designed to facilitate the exchange of information about cybersecurity threats, including malware, phishing attacks, and other types of cybercrime.|<a href="https://www.misp-project.org">MISP</a>||||
 
@@ -34,9 +34,9 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 ## Defensive Tooling:
 | Product          | Description                                        | Link                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
-| Wazuh | All in one security platform, that is opensoure  and integrate SIEMs and XDR capability | <a href=¨https://wazuh.com/platform/overview/¨>Wazuh platform¨</a>|
-| OS Query | An open-source, cross-platform query language that allows you to access various information about the hardware and software of a computer system||<a href="https://www.osquery.io/">osquery.io</a>|
-| sysmon | A Windows system monitoring tool that logs system activity to the Windows event log. It is designed to provide detailed information about system activity, such as process creation, network connections, and changes to file creation time. Ideal for malware hunting ||||
+| Wazuh | All in one security platform, that is opensoure  and integrate SIEMs and XDR capability | <a href="https://wazuh.com/platform/overview/">Wazuh platform</a>|||
+| OS Query | An open-source, cross-platform query language that allows you to access various information about the hardware and software of a computer system|<a href="https://www.osquery.io/">osquery.io</a>|||
+| sysmon | A Windows system monitoring tool that logs system activity to the Windows event log. It is designed to provide detailed information about system activity, such as process creation, network connections, and changes to file creation time. Ideal for malware hunting |||
 
 ## Offensive Tooling:
 | Product          | Description                                        | Link                              |
