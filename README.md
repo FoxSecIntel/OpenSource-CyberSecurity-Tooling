@@ -10,11 +10,11 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 | TheHive     | This incident response platform integrates with a variety of threat intelligence feeds to help security teams quickly identify and respond to threats. | <a href="https://thehive-project.org">TheHive Project</a>|||
 | MISP | MISP (Malware Information Sharing Platform) is an open source platform for sharing, storing, and collaborating on threat intelligence. It is designed to facilitate the exchange of information about cybersecurity threats, including malware, phishing attacks, and other types of cybercrime.|<a href="https://www.misp-project.org">MISP</a>||||
 
-
 ## Vulnerability Management:
 | Product          | Description                                        | Link                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
-| OpenVAS    | This vulnerability assessment tool allows organizations to scan their systems for known vulnerabilities and apply patches to mitigate risks.
+| OpenVAS    | This vulnerability assessment tool allows organizations to scan their systems for known vulnerabilities and apply patches to mitigate risks.|||
+| dirsearch    | Web Path Scanner | <a href="https://github.com/maurosoria/dirsearch">dirsearch</a>|||
  | Shodan|I often use Shodan to help me identify and understand internet-connected devices and systems. Shodan is a search engine for internet-connected devices, including servers, routers, cameras, and industrial control systems. It allows you to search for devices using keywords, IP addresses, and other criteria, and provides detailed information about each device, including its IP address, operating system, and open ports||
  |ScoutSuite | An open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments . Which include, AWS, OCI, GCP, Azure and Alibaba. Ideal for making sure  that your infrastructure is compliant with relevant security standards|  <a href="https://github.com/nccgroup/ScoutSuite">ScoutSuite</a>
  |Shodan Browser Extension |  The Shodan browser extension allows users to quickly search for devices using the Shodan database directly from their web browser. When a user visits a webpage, the extension will search the Shodan database for any devices associated with the webpage and display the results in a pop-up window. Invaluable ! |<a href="https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap">Shodan Extension</a>|||
