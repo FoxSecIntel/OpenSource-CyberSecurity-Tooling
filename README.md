@@ -34,7 +34,7 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 ## Defensive Tooling:
 | Product          | Description                                        | Link                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
-| Wazuh | All in one security platform, that is opensoure  and integrate SIEMs and XDR capability | <a =href¨https://wazuh.com/platform/overview/¨>Wazuh platform¨>|
+| Wazuh | All in one security platform, that is opensoure  and integrate SIEMs and XDR capability | <a =href¨https://wazuh.com/platform/overview/¨>Wazuh platform¨</a>|
 | OS Query | An open-source, cross-platform query language that allows you to access various information about the hardware and software of a computer system||<a href="https://www.osquery.io/">osquery.io</a>|
 | sysmon | A Windows system monitoring tool that logs system activity to the Windows event log. It is designed to provide detailed information about system activity, such as process creation, network connections, and changes to file creation time. Ideal for malware hunting ||||
 
