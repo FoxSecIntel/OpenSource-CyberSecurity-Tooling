@@ -34,7 +34,7 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 ## Defensive Tooling:
 | Product          | Description                                        | Link                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
-| Cobalt Strike |||||
+| Wazuh | All in one security platform, that is opensoure  and integrate SIEMs and XDR capability |
 | OS Query | An open-source, cross-platform query language that allows you to access various information about the hardware and software of a computer system||<a href="https://www.osquery.io/">osquery.io</a>|
 | sysmon | A Windows system monitoring tool that logs system activity to the Windows event log. It is designed to provide detailed information about system activity, such as process creation, network connections, and changes to file creation time. Ideal for malware hunting ||||
 
@@ -42,7 +42,7 @@ As someone working in cybersecurity, I know firsthand the importance of having e
 | Product          | Description                                        | Link                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
 | Metasploit |Metasploit is an open source toolkit that is great for developing and executing security exploits. I use this software for tasks such as penetration testing, testing the security of systems and networks, and demonstrating the effects of security vulnerabilities.||||
-
+| Cobalt Strike |||||
 
 
 By leveraging these open source tools, you can improve your threat intelligence capabilities, identify and mitigate vulnerabilities, and effectively conduct forensic investigations when needed.
